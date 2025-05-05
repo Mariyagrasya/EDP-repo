@@ -1,0 +1,17 @@
+C:\Users\Acer\OneDrive\Documents\brgyProfiling\brgyProfiling\bin\Debug\brgyProfiling.exe.config
+C:\Users\Acer\OneDrive\Documents\brgyProfiling\brgyProfiling\bin\Debug\brgyProfiling.exe
+C:\Users\Acer\OneDrive\Documents\brgyProfiling\brgyProfiling\bin\Debug\brgyProfiling.pdb
+C:\Users\Acer\OneDrive\Documents\brgyProfiling\brgyProfiling\obj\Debug\brgyProfiling.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Documents\brgyProfiling\brgyProfiling\obj\Debug\brgyProfiling.blotterRecordsForm.resources
+C:\Users\Acer\OneDrive\Documents\brgyProfiling\brgyProfiling\obj\Debug\brgyProfiling.brgyOfficialsForm.resources
+C:\Users\Acer\OneDrive\Documents\brgyProfiling\brgyProfiling\obj\Debug\brgyProfiling.businessPermitsForm.resources
+C:\Users\Acer\OneDrive\Documents\brgyProfiling\brgyProfiling\obj\Debug\brgyProfiling.householdForm.resources
+C:\Users\Acer\OneDrive\Documents\brgyProfiling\brgyProfiling\obj\Debug\brgyProfiling.loginForm.resources
+C:\Users\Acer\OneDrive\Documents\brgyProfiling\brgyProfiling\obj\Debug\brgyProfiling.reportsForm.resources
+C:\Users\Acer\OneDrive\Documents\brgyProfiling\brgyProfiling\obj\Debug\brgyProfiling.residentsForm.resources
+C:\Users\Acer\OneDrive\Documents\brgyProfiling\brgyProfiling\obj\Debug\brgyProfiling.Properties.Resources.resources
+C:\Users\Acer\OneDrive\Documents\brgyProfiling\brgyProfiling\obj\Debug\brgyProfiling.voterRegistrationForm.resources
+C:\Users\Acer\OneDrive\Documents\brgyProfiling\brgyProfiling\obj\Debug\brgyProfiling.csproj.GenerateResource.cache
+C:\Users\Acer\OneDrive\Documents\brgyProfiling\brgyProfiling\obj\Debug\brgyProfiling.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Documents\brgyProfiling\brgyProfiling\obj\Debug\brgyProfiling.exe
+C:\Users\Acer\OneDrive\Documents\brgyProfiling\brgyProfiling\obj\Debug\brgyProfiling.pdb
